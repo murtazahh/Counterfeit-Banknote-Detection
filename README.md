@@ -1,2 +1,4 @@
 # Real-and-Counterfeit-Banknote-Detection-using-YOLOv5-and-Image-Filters
 Real and Counterfeit Banknote Detection using YOLOv5 and Image Filters
+
+One of the projects that I have completed as a Data Science - Deep Learning Expert at Fiverr was to develop a program that can detect real and counterfeit banknotes using a mobile phone’s camera. I used the YOLOv5 model to train the program on a dataset of original banknotes, after applying Weiner and Gray scale filters to enhance the image quality. The program can take a new picture of a banknote and calculate the probability of it being real or counterfeit, without requiring any internet connection or external libraries. I also provided all the necessary files and code lines to ensure that the program can run smoothly and reliably on the client’s side. The program achieved an accuracy of 95% on the test set and received positive feedback from the client.
